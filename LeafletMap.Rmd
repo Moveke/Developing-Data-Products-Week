@@ -33,15 +33,3 @@ map %>%
    addTiles() %>%
    addMarkers(lat=51.161027, lng=6.870550, popup = benrathPalacePopup)
 ```
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
